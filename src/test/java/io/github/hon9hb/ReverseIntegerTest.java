@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Test;
 
 public class ReverseIntegerTest {
 	@Test
-	void twoSumTest() {
+	void reverseIntegerTest() {
 		int x = -40859;
 
 		// while문 방식
